@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lyrics-search-app/static/css/main.afd7172b.chunk.css",
+    "main.js": "/lyrics-search-app/static/js/main.6e18e658.chunk.js",
+    "main.js.map": "/lyrics-search-app/static/js/main.6e18e658.chunk.js.map",
+    "runtime-main.js": "/lyrics-search-app/static/js/runtime-main.e5d65483.js",
+    "runtime-main.js.map": "/lyrics-search-app/static/js/runtime-main.e5d65483.js.map",
+    "static/js/2.843b3bee.chunk.js": "/lyrics-search-app/static/js/2.843b3bee.chunk.js",
+    "static/js/2.843b3bee.chunk.js.map": "/lyrics-search-app/static/js/2.843b3bee.chunk.js.map",
+    "static/js/3.fd845ec4.chunk.js": "/lyrics-search-app/static/js/3.fd845ec4.chunk.js",
+    "static/js/3.fd845ec4.chunk.js.map": "/lyrics-search-app/static/js/3.fd845ec4.chunk.js.map",
+    "index.html": "/lyrics-search-app/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/lyrics-search-app/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.843b3bee.chunk.js.LICENSE.txt": "/lyrics-search-app/static/js/2.843b3bee.chunk.js.LICENSE.txt",
+    "static/media/spinner.744b3e50.gif": "/lyrics-search-app/static/media/spinner.744b3e50.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d65483.js",
+    "static/js/2.843b3bee.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.6e18e658.chunk.js"
+  ]
+}
